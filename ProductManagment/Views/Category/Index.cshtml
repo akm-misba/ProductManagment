@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ProductManagmentModel.Category>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container p-3">
+    <div class="row p-3">
+       @*  <div class="col-12">
+            <h2 class="text-primary">Category List</h2>
+        </div> *@
+        @* <div class="col-12 text-end">
+            <a asp-controller="Category" asp-action="Create" class="btn btn-primary">
+                <i class="bi bi-plus-lg"></i> &nbsp; Create a new Category
+            </a>
+        </div> *@
+        <div class="col-md-3 col-12">
+            @Html.ActionLink("Category Product Creation", "Create", null, null, new { @class = "btn btn-outline-info btn-block rounded-0", @id = "btnBack" })
+        </div>
+        <div class="col-md-9 col-12">
+            <h2 id="styletext">Category List</h2>
+        </div>
+    </div>
+    <br></br>
+<table class="table table-broder-broderd table-striped" style="width:100%">
+    <thead>
+        <tr>
+           @*  <th>
+                Category Name
+            </th>
+            <th>
+                Order Numbrer
+            </th> *@
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DisplayOrder)
+                </th>
+                <th>Action</th>
+        </tr>
+    </thead>
+  
+</table>
+</div>
+

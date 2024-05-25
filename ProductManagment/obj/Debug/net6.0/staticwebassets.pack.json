@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProductManagment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProductManagment.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\0a6fc75c-145e-4a72-a0f3-3e7eb1778f45.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\0a6fc75c-145e-4a72-a0f3-3e7eb1778f45.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\14cbc04a-76c5-453d-8e82-d76b51f5bbee.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\14cbc04a-76c5-453d-8e82-d76b51f5bbee.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\14f41dab-ed91-48fc-92bc-ec69ec083b86.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\14f41dab-ed91-48fc-92bc-ec69ec083b86.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\30d95af5-63ff-4782-bae4-9a1ea61cafa3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\30d95af5-63ff-4782-bae4-9a1ea61cafa3.jpg"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\3d45e802-aa44-451a-8b87-3afff7a09e42.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\3d45e802-aa44-451a-8b87-3afff7a09e42.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\3fcabccc-1fca-4402-b57b-0450598e6cac.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\3fcabccc-1fca-4402-b57b-0450598e6cac.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\41da82ac-285b-496a-a2f6-67ac6610bfc7.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\41da82ac-285b-496a-a2f6-67ac6610bfc7.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\4534f6e0-cb03-4449-b7b3-7e9a4227a071.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\4534f6e0-cb03-4449-b7b3-7e9a4227a071.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\5155cd26-99e3-478c-985b-e8db1541c301.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\5155cd26-99e3-478c-985b-e8db1541c301.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\534a1ea3-ad5b-4a70-9615-88eb08c3f688.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\534a1ea3-ad5b-4a70-9615-88eb08c3f688.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\5be26d21-a737-4e56-92dd-0e728cce51bd.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\5be26d21-a737-4e56-92dd-0e728cce51bd.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\606cab26-d3a2-448f-8837-024cf57b0d87.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\606cab26-d3a2-448f-8837-024cf57b0d87.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\645c3fcd-7dae-4750-8ff8-05b09fd87215.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\645c3fcd-7dae-4750-8ff8-05b09fd87215.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\64745e8f-bd4d-42ac-918d-bd1ade42a849.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\64745e8f-bd4d-42ac-918d-bd1ade42a849.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\67cb4ef4-59ab-467d-b179-fa9df2bb08d4.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\67cb4ef4-59ab-467d-b179-fa9df2bb08d4.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\6c1436e2-5dba-4027-a8f8-97b76d41bdb1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\6c1436e2-5dba-4027-a8f8-97b76d41bdb1.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\a9244351-5dde-4a1b-a981-0e8c4b68ad3c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\a9244351-5dde-4a1b-a981-0e8c4b68ad3c.jpg"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\aacc7941-3844-4c74-98be-f2c7f7286ecb.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\aacc7941-3844-4c74-98be-f2c7f7286ecb.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\b5857b13-037f-4e9f-b965-507ac2e57836.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\b5857b13-037f-4e9f-b965-507ac2e57836.jpg"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\b818749a-9b0a-4ed1-b282-99a23e21b78b.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\b818749a-9b0a-4ed1-b282-99a23e21b78b.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\dc3e1c40-4030-42d4-8164-ed0d4bd36143.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\dc3e1c40-4030-42d4-8164-ed0d4bd36143.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\eaa9d2d4-86bd-4bb3-8f53-4295312f44de.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\eaa9d2d4-86bd-4bb3-8f53-4295312f44de.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\f46f76dd-1f10-4ef0-9c73-5471f05c8453.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\f46f76dd-1f10-4ef0-9c73-5471f05c8453.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\f8605768-880d-491e-a2e3-dbf70ed6a403.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\f8605768-880d-491e-a2e3-dbf70ed6a403.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\Images\\Products\\fe7e5b1c-496d-4761-a4a2-9c639e3f0df8.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\fe7e5b1c-496d-4761-a4a2-9c639e3f0df8.png"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\ProductManagment\\ProductManagment\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProductManagment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProductManagment.props",
+      "PackagePath": "build\\ProductManagment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductManagment.props",
+      "PackagePath": "buildMultiTargeting\\ProductManagment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProductManagment.props",
+      "PackagePath": "buildTransitive\\ProductManagment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
